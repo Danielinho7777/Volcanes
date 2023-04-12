@@ -35,4 +35,18 @@ Posteriormente, los volcanes de fumarolas, también conocidos como volcanes de l
 
  ![Volcanes](https://user-images.githubusercontent.com/129206973/231534637-93467a60-b7a0-4be2-af78-2184952c0a41.jpg)
 
-![Tipos de erupciones volcánicas](https://ecoexploratorio.org/wp-content/uploads/2013/06/tipos-de-volcanes-2.jpg)
+![Tipos de erupciones volcánicas](https://ecoexploratorio.org/wp-content/uploads/2013/06/tipos-de-volcanes-2.jpg) Nota. Tipos de erupciones y volcanes [Fotografía], por Ecooexploratorio, 2020, https://ecoexploratorio.org/amenazas-naturales/volcanes/tipos-de-volcanes-y-erupciones/
+
+[Más información sobre vulcanismo](https://repositorio.unal.edu.co/bitstream/handle/unal/53767/vulcanismo.pdf?sequence=6&isAllowed=y)
+
+[Erupción del Monte Santa Helena](https://www.youtube.com/watch?v=ZYMmZe_S7M4)
+
+**Bibliografía**
+
+Gutiérrez-Elorza, M. (2008). Geomorfología. Pearson Educación, S.A. Madrid, España. 898 pp. 
+
+Huggett, R. (2007). Fundamentals of Geomorphology. Routledge. New York, Estados Unidos. 458 pp.
+
+Granados-Bolaños, S., Quesada-Román, A., & Alvarado, G. (2021). Low-cost UAV applications in dynamic tropical
+volcanic landforms. Journal of Volcanology and Geothermal Research, 410, 107143.
+https://doi.org/10.1016/j.jvolgeores.2020.107143
