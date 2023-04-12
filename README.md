@@ -15,4 +15,15 @@ Los volcanes de escudo son volcanes de forma redondeada y amplia, con flancos su
 
 Los estratovolcanes, también conocidos como volcanes compuestos, de forma cónica y empinada, con flancos escarpados. Estos volcanes son típicos de erupciones de tipo explosivo, en las que la lava más viscosa y las explosiones son violentas. Los estratovolcanes están compuestos por capas alternadas de lava y ceniza volcánica, lo que les confiere su característica forma cónica. Ejemplos de estos incluyen el Monte Fuji en Japón y el Monte Rainier en Estados Unidos. Estos volcanes pueden ser peligrosos debido a su potencial explosivo y su capacidad para producir flujos piroclásticos, que son nubes ardientes de gases y fragmentos volcánicos que descienden rápidamente por las laderas del volcán.
 
-Para finalizar, los volcanes de fumarolas, también conocidos como volcanes de lodo, son características geomorfológicas únicas que se forman cuando el magma se mezcla con agua y otros materiales, creando un barro espeso que es expulsado a la superficie. Estos suelen tener una apariencia de lodo o barro, con flujos de lodo y vapores que emanan de la abertura del volcán. Los volcanes de fumarolas son típicos de áreas geotérmicas, como el Parque Nacional de Yellowstone en Estados Unidos y la región de el Tatio en Chile.
+Posteriormente, los volcanes de fumarolas, también conocidos como volcanes de lodo, son características geomorfológicas únicas que se forman cuando el magma se mezcla con agua y otros materiales, creando un barro espeso que es expulsado a la superficie. Estos suelen tener una apariencia de lodo o barro, con flujos de lodo y vapores que emanan de la abertura del volcán. Los volcanes de fumarolas son típicos de áreas geotérmicas, como el Parque Nacional de Yellowstone en Estados Unidos y la región de el Tatio en Chile.
+
+*Para finalizar, estos son los tipos de erupciones volcánicas:*
+
+**Tipos**
+- Islándicas
+- Hawaianas 
+- Estrombolianas
+- Vulcanianas 
+- Vesubianas
+- Peleanas 
+- Plinianas 
