@@ -11,7 +11,7 @@ Un volcán es una abertura en la corteza terrestre a través de la cual el magma
 
 *La geomorfología de los volcanes varía dependiendo del tipo de erupción volcánica y de la composición del mgma. Los volcanes se clasifican en varios tipos, incluyendo los volcanes de escudo, los estratovolcanes, los volcanes compuestos, los volcanes de fumarolas, entre otros.*
 
-Los volcanes de escudo son volcanes de forma redondeada y amplia, con flancos suaves. Estos volcanes son típicos de erupciones volcánicas de tipo efusivo, en las que la lava fluye lentamente y se extiende en grandes áreas alrededor de la abertura del volcán. La lava de los volcanes de escudo es generalmente fluida y poco viscoca, lo que permite que se extienda en amplias superficies. Un ejemplo destacado de un volcán de escudo es el volcán Mauna Loa en Hawái, que es uno de los volcanes más grandes del mundo en términos de volumen y altura.
+Los volcanes de escudo son volcanes de forma redondeada y amplia, con flancos suaves. Estos volcanes son típicos de erupciones volcánicas de tipo efusivo, en las que la lava fluye lentamente y se extiende en grandes áreas alrededor de la abertura del volcán. La lava de los volcanes de escudo es generalmente fluida y poco viscosa, lo que permite que se extienda en amplias superficies. Un ejemplo destacado de un volcán de escudo es el volcán Mauna Loa en Hawái, que es uno de los volcanes más grandes del mundo en términos de volumen y altura.
 
 Los estratovolcanes, también conocidos como volcanes compuestos, de forma cónica y empinada, con flancos escarpados. Estos volcanes son típicos de erupciones de tipo explosivo, en las que la lava más viscosa y las explosiones son violentas. Los estratovolcanes están compuestos por capas alternadas de lava y ceniza volcánica, lo que les confiere su característica forma cónica. Ejemplos de estos incluyen el Monte Fuji en Japón y el Monte Rainier en Estados Unidos. Estos volcanes pueden ser peligrosos debido a su potencial explosivo y su capacidad para producir flujos piroclásticos, que son nubes ardientes de gases y fragmentos volcánicos que descienden rápidamente por las laderas del volcán.
 
@@ -27,3 +27,8 @@ Posteriormente, los volcanes de fumarolas, también conocidos como volcanes de l
 - Vesubianas
 - Peleanas 
 - Plinianas 
+
+*También, están las erupciones hidrovolcánicas*
+- Subacuáticas
+- Freáticas
+- Subglaciares
