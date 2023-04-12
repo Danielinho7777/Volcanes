@@ -33,5 +33,5 @@ Posteriormente, los volcanes de fumarolas, también conocidos como volcanes de l
 - Freáticas
 - Subglaciares
 
-! [Partes de un volcán] (![Volcanes](https://user-images.githubusercontent.com/129206973/231534637-93467a60-b7a0-4be2-af78-2184952c0a41.jpg)
+ (![Volcanes](https://user-images.githubusercontent.com/129206973/231534637-93467a60-b7a0-4be2-af78-2184952c0a41.jpg)
 )
